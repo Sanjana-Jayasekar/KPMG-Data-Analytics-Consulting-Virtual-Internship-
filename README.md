@@ -1,5 +1,5 @@
 
-This project is a part of the PMG-Data-Analytics-Consulting-Virtual-Internship
+This project is a part of the KPMG-Data-Analytics-Consulting-Virtual-Internship
 
 #### -- Project Status: Completed
 
