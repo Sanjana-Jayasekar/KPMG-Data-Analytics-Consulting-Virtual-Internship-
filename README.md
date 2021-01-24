@@ -12,7 +12,6 @@ The purpose of this project is to	Analyse the existing customer base of Sprocket
 
 ### Technologies
 * Python
-* Tableau
 
 ## Project Description
 The objective of the project is to find the potential customers by analyzing the existing customer base of the company. Segregated and calculated the data like how frequent a customer visits the store, their last purchase date and how much they have purchased from the store in total for building the RFM model. 
