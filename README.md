@@ -10,7 +10,7 @@ The purpose of this project is to	Analyse the existing customer base of Sprocket
 * Data Visualization
 * Customer segmentation using RFM model
 
-### Technologies
+### Tech stack
 * Python
 
 ## Project Description
